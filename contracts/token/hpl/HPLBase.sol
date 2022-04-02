@@ -155,3 +155,4 @@ contract HPLBase is
         _withdrawERC721(receiver, tokenAddress, tokenId);
     }
 }
+https://gist.github.com/calbearox/4feeadc88794d7ec1592dc4e92ab22d3#file-doc-file-js-playground-rs
